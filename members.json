@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Mészáros Lőrinc",
+        "age": 55,
+        "city": "Felcsút City",
+        "species": "intruder"
+    },
+    {
+        "name": "Kiss Ferenc",
+        "age": 33,
+        "city": "Pécs",
+        "species": "human"
+    },
+    {
+        "name": "Édit Piaf",
+        "age": 25,
+        "city": "Paris",
+        "species": "kiborg"
+    }
+]
